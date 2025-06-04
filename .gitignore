@@ -1,0 +1,14 @@
+# Ignore build output
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+*.log
+
+# VS/IDE files
+.vscode/
+*.vs/
+*.db
